@@ -1,3 +1,4 @@
-*.json
-*.exe
+chromedriver.exe
 venv/
+secret/
+.idea/
